@@ -1,0 +1,32 @@
+﻿# Python virtual environments
+nlpvenv/
+venv/
+.env/
+.python-version
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
